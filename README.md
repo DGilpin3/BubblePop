@@ -63,7 +63,7 @@ Week6Lab/ │ ├── index.html # Main HTML file ├── sounds/ # Folder c
 
 ## 🚀 How to Run
 
-https://dgilpin3.github.io/Bubble-Pop/
+https://dgilpin3.github.io/BubblePop/
 
 📝 Notes
 The lab demonstrates object-oriented programming (OOP) in JavaScript with classes.
